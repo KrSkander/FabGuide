@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Zippo" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Zippos_assembly" assemblyId="f3b1bfb31d234ce19cc2eeda8f0ff8a5">
+<Part name="Zippo" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="8.89973 28.9103 177.79" rotation="AD: 0.999038 0.119896 -0.411746 209.96" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="15.7929 25.9127 175.732" rotation="AD: 1 -1.70739e-05 0.000240659 188.116" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-13.8713 21.7663 191.299" rotation="AD: -0.675359 -0.887714 1.74224 161.112" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="14.069 16.949 196.211" rotation="AD: 0.999275 -0.113713 0.373315 211.681" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="-9.14554 6.81324 203.459" rotation="AD: 0.721471 -0.820174 1.79727 197.794" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="-15.8857 24.9789 182.023" rotation="AD: -0.198766 -0.983078 12.744 179.863" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0006" translation="15.1402 25.6035 181.357" rotation="AD: 0.999999 0.0166429 -0.0737646 205.359" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0007" translation="-16.0589 24.0854 228.342" rotation="AD: -0.586948 -0.836898 3.93447 176.482" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
